@@ -1,0 +1,27 @@
+{
+  "name": "lambda-feed-reader-fn",
+  "version": "0.0.1",
+  "description": "AWS Lambda feed reader function",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ournet/lambda-feed-reader-fn.git"
+  },
+  "keywords": [
+    "ournet",
+    "feed-reader",
+    "lambda-fn"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ournet/lambda-feed-reader-fn/issues"
+  },
+  "homepage": "https://github.com/Ournet/lambda-feed-reader-fn#readme",
+  "dependencies": {
+    "ournet-feed-reader": "^0.2.3"
+  }
+}
